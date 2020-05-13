@@ -1,33 +1,15 @@
 .fra-featured-game-container {
   display: inline-flex;
   flex-direction: column;
-  position: relative;
-  top: calc(50% - 175px);
-  left: calc(50% - 500px);
   font-family: 'Loosey Sans';
 
   .fra-featured-game {
-    position: relative;
     font-size: 9em;
     font-weight: 900;
     color: white;
     -webkit-text-stroke-width: 5px;
-    // -webkit-text-stroke-color: #EA712B;
     -webkit-text-stroke-color: white;
-    // letter-spacing: -10px;
-    // text-shadow: 5px 3px 4px black;
     text-shadow: -8px 4px #EA712B, -5px 6px #EA712B, 8px 2px 5px black, -8px -4px #EA712B;
-    // text-shadow: -4px 8px #EA712B, 5px 8px #EA712B, 15px 2px 5px black, 9px -2px #EA712B;
-
-    // &:after {
-    //   background: none;
-    //   content: attr(data-text);
-    //   left: 0;
-    //   top: 0;
-    //   z-index: -1;
-    //   position: absolute;
-    //   text-shadow: 1px 1px 2px #000;
-    // }
   }
 }
 

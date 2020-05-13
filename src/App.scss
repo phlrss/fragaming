@@ -13,21 +13,68 @@ html, body, #root, .App {
     flex: 0 auto;
   }
 
-  .fra-content {
+  .fra-featured {
     flex: 1;
+    display: flex;
+
+    .half {
+      flex: 1;
+      display: flex;
+      padding: 10px;
+
+      &.left-half {
+        padding-left: 100px;
+        align-items: center;
+      }
+
+      &.right-half {
+        padding-right: 100px;
+        align-items: flex-end;
+        justify-content: flex-end;
+      }
+    }
 
     .fra-featured-screenshot {
       height: 500px;
       border-radius: 10px;
       border: 20px black solid;
-      position: absolute;
-      right: 100px;
-      top: calc(50% - 250px);
+      position: relative;
+      bottom: -50px;
     }
   }
 
   .fra-footer {
     flex: 0 200px;
+    display: flex;
+    align-items: center;
     background-color: white;
+    padding: 0px 50px;
+
+    .fra-store-badge {
+      width: 230px;
+      height: 100px;
+      border: none;
+      outline: none;
+      background-color: transparent;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-right: 50px;
+
+      &.google {
+        width: 250px;
+        height: 110px;
+        background-image: url(/static/media/google-play-badge.db9b21a1.png);
+      }
+
+      &.apple {
+        background-size: contain;
+        background-image: url('./images/apple-store-badge.svg');
+      }
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
   }
 }
