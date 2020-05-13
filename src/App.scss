@@ -16,12 +16,12 @@ html, body, #root, .App {
   .fra-content {
     flex: 1;
 
-    .hammy-screenshot {
+    .fra-featured-screenshot {
       height: 500px;
       border-radius: 10px;
       border: 20px black solid;
       position: absolute;
-      right: 50px;
+      right: 100px;
       top: calc(50% - 250px);
     }
   }
