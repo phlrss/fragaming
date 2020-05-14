@@ -13,13 +13,21 @@
   font-family: 'Roboto', sans-serif;
 
   &.main {
-    letter-spacing: 4px;
     font-weight: 900;
-    margin-right: 30px;
     font-size: 1.5em;
-    font-family: 'Londrina Solid', cursive;
     border-right: none;
     height: 100%;
+    background-color: transparent;
+    background-image: url('../../images/FRA\ Gaming_4.png');
+    background-size: cover;
+    background-position: center;
+    width: 250px;
+    margin-left: -50px;
+    transition: transform 0.3s;
+
+    &:hover {
+      transform: scale(1.1);
+    }
   }
 
 

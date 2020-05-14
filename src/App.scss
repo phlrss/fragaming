@@ -23,12 +23,12 @@ html, body, #root, .App {
       padding: 10px;
 
       &.left-half {
-        padding-left: 100px;
+        padding-left: 15vw;
         align-items: center;
       }
 
       &.right-half {
-        padding-right: 100px;
+        padding-right: 15vw;
         align-items: flex-end;
         justify-content: flex-end;
       }
@@ -48,7 +48,7 @@ html, body, #root, .App {
     display: flex;
     align-items: center;
     background-color: white;
-    padding: 0px 50px;
+    padding: 0px 100px;
 
     .fra-store-badge {
       width: 230px;
@@ -59,12 +59,12 @@ html, body, #root, .App {
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
-      margin-right: 50px;
+      margin-right: 100px;
 
       &.google {
         width: 250px;
         height: 110px;
-        background-image: url(/static/media/google-play-badge.db9b21a1.png);
+        background-image: url('./images/google-play-badge.png');
       }
 
       &.apple {
