@@ -5,11 +5,11 @@ import FraButton from '../FraButton';
 const FraHeader = () => {
   return (
     <div className='header-container'>
-      <FraButton style='main' text='' />
-      <FraButton text='Games' />
-      <FraButton text='About Us' />
-      <FraButton text='Link 3?' />
-      <FraButton text='Free Beer?' />
+      <FraButton style='main' link='/' text='' />
+      <div className='fra-button-list'>
+        <FraButton text='Games' link='/' />
+        <FraButton text='About Us' link='/about' />
+      </div>
     </div>
   )
 }

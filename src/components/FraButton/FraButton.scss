@@ -11,6 +11,10 @@
   border-right: 1px solid #d8d8d8;
   text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
 
   &.main {
     font-weight: 900;
@@ -18,11 +22,11 @@
     border-right: none;
     height: 100%;
     background-color: transparent;
-    background-image: url('../../images/FRA\ Gaming_4.png');
-    background-size: cover;
+    background-image: url('../../images/fra-gaming-logo.png');
+    background-size: contain;
     background-position: center;
-    width: 250px;
-    margin-left: -50px;
+    background-repeat: no-repeat;
+    width: 100px;
     transition: transform 0.3s;
 
     &:hover {

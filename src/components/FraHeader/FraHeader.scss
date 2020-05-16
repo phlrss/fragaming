@@ -1,9 +1,17 @@
 .header-container {
+  flex: 0 auto;
   height: 50px;
   width: 100%;
   background-color: white;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   padding: 0 10px;
   box-shadow: 0px -5px 12px 0px black;
+  overflow: hidden;
+
+  .fra-button-list {
+    display: flex;
+    padding-right: 10px;
+  }
 }

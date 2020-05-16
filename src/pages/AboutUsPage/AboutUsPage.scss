@@ -1,0 +1,9 @@
+.about-us-wrapper {
+  display: flex;
+  flex: 1;
+  min-height: 500px;
+
+  .half {
+    flex: 1;
+  }
+}
