@@ -3,7 +3,27 @@
   flex: 1;
   min-height: 500px;
 
-  .half {
+  .left-half {
+    padding: 3rem;
     flex: 1;
+    img {
+      box-shadow: 3px 3px 12px 0px gray;
+      height: 100%;
+    }
+  }
+
+  .right-half {
+    flex: 3;
+    background-color: white;
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2rem;
+
+    img {
+      width: 250px;
+      margin-top: -50px;
+      margin-bottom: 25px;
+    }
   }
 }
