@@ -15,7 +15,7 @@ const HomePage = () => {
         </div>
       </div>
       <div className='fra-footer'>
-        <button className='fra-store-badge google'></button>
+        <a href='https://play.google.com/store/apps/details?id=com.FraGaming.HammyHop' target='_blank' alt='Google Play Link' className='fra-store-badge google'></a>
         {/* <button className='fra-store-badge apple'></button> */}
       </div>
     </div>

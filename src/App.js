@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <FraHeader />
         <Switch>
-          <Route exact path="/">
+          <Route path="*">
             <HomePage />
           </Route>
           {/* <Route exact path="/about">

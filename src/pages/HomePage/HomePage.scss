@@ -69,6 +69,10 @@
 }
 
 @media only screen and (max-width: 750px) {
+  .fra-featured-game {
+    font-size: 6em !important;
+  }
+
   .fra-featured {
     flex-direction: column;
 
@@ -81,5 +85,10 @@
         justify-content: center;
       }
     }
+  }
+
+  .fra-footer {
+    padding: 0;
+    justify-content: center;
   }
 }
