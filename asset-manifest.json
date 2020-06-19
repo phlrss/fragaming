@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fragaming/static/css/main.98050aba.chunk.css",
-    "main.js": "/fragaming/static/js/main.efabca2f.chunk.js",
-    "main.js.map": "/fragaming/static/js/main.efabca2f.chunk.js.map",
+    "main.js": "/fragaming/static/js/main.20516f04.chunk.js",
+    "main.js.map": "/fragaming/static/js/main.20516f04.chunk.js.map",
     "runtime-main.js": "/fragaming/static/js/runtime-main.50704425.js",
     "runtime-main.js.map": "/fragaming/static/js/runtime-main.50704425.js.map",
     "static/js/2.ae9c9a35.chunk.js": "/fragaming/static/js/2.ae9c9a35.chunk.js",
     "static/js/2.ae9c9a35.chunk.js.map": "/fragaming/static/js/2.ae9c9a35.chunk.js.map",
     "index.html": "/fragaming/index.html",
-    "precache-manifest.110b74250b9f31ddaaf7bd70392b34e9.js": "/fragaming/precache-manifest.110b74250b9f31ddaaf7bd70392b34e9.js",
+    "precache-manifest.0b03b7e988c38e5261b095555fa3300f.js": "/fragaming/precache-manifest.0b03b7e988c38e5261b095555fa3300f.js",
     "service-worker.js": "/fragaming/service-worker.js",
     "static/css/main.98050aba.chunk.css.map": "/fragaming/static/css/main.98050aba.chunk.css.map",
     "static/js/2.ae9c9a35.chunk.js.LICENSE.txt": "/fragaming/static/js/2.ae9c9a35.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.50704425.js",
     "static/js/2.ae9c9a35.chunk.js",
     "static/css/main.98050aba.chunk.css",
-    "static/js/main.efabca2f.chunk.js"
+    "static/js/main.20516f04.chunk.js"
   ]
 }
