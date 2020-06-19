@@ -7,8 +7,8 @@ const FraHeader = () => {
     <div className='header-container'>
       <FraButton style='main' link='/' text='' />
       <div className='fra-button-list'>
-        <FraButton text='Games' link='/' />
-        <FraButton text='About Us' link='/about' />
+        {/* <FraButton text='Games' link='/' /> */}
+        {/* <FraButton text='About Us' link='/about' /> */}
       </div>
     </div>
   )

@@ -50,7 +50,6 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-right: 100px;
 
     &.google {
       width: 250px;
@@ -65,6 +64,22 @@
 
     &:hover {
       cursor: pointer;
+    }
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .fra-featured {
+    flex-direction: column;
+
+    .half {
+      &.left-half {
+        padding-left: 20px;
+      }
+      &.right-half {
+        padding-right: 0;
+        justify-content: center;
+      }
     }
   }
 }

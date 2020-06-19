@@ -16,7 +16,7 @@ const HomePage = () => {
       </div>
       <div className='fra-footer'>
         <button className='fra-store-badge google'></button>
-        <button className='fra-store-badge apple'></button>
+        {/* <button className='fra-store-badge apple'></button> */}
       </div>
     </div>
   )
