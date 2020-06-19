@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f03543b3e3f9eef20471b04ad78df633",
+    "revision": "9d029910cea65579bfdb65bf416384e8",
     "url": "/fragaming/index.html"
   },
   {
