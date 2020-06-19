@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0109a8140e7c51d26c40e6cf75df9b7",
+    "revision": "ae9e235fb32d24caf913db1cdea6cf73",
     "url": "/fragaming/index.html"
   },
   {
-    "revision": "136b2b9cd2ad86d321b9",
-    "url": "/fragaming/static/css/main.62a93ee2.chunk.css"
+    "revision": "c534cbef6974c3bfd01f",
+    "url": "/fragaming/static/css/main.86808625.chunk.css"
   },
   {
     "revision": "61dbe4292fc46c2aa1aa",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fragaming/static/js/2.ae9c9a35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "136b2b9cd2ad86d321b9",
-    "url": "/fragaming/static/js/main.ad14d1dc.chunk.js"
+    "revision": "c534cbef6974c3bfd01f",
+    "url": "/fragaming/static/js/main.9bd9455c.chunk.js"
   },
   {
     "revision": "4a52b7566d5967ddd68a",
