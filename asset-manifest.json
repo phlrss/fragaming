@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fragaming/static/css/main.98050aba.chunk.css",
+    "main.css": "/fragaming/static/css/main.bdc101ef.chunk.css",
     "main.js": "/fragaming/static/js/main.bf3c0c7b.chunk.js",
     "main.js.map": "/fragaming/static/js/main.bf3c0c7b.chunk.js.map",
     "runtime-main.js": "/fragaming/static/js/runtime-main.50704425.js",
@@ -8,9 +8,9 @@
     "static/js/2.ae9c9a35.chunk.js": "/fragaming/static/js/2.ae9c9a35.chunk.js",
     "static/js/2.ae9c9a35.chunk.js.map": "/fragaming/static/js/2.ae9c9a35.chunk.js.map",
     "index.html": "/fragaming/index.html",
-    "precache-manifest.8bc874a2d3b741fcc731f5abd5e61c8c.js": "/fragaming/precache-manifest.8bc874a2d3b741fcc731f5abd5e61c8c.js",
+    "precache-manifest.fd3bb121b1e0c24fed9a31c612957a26.js": "/fragaming/precache-manifest.fd3bb121b1e0c24fed9a31c612957a26.js",
     "service-worker.js": "/fragaming/service-worker.js",
-    "static/css/main.98050aba.chunk.css.map": "/fragaming/static/css/main.98050aba.chunk.css.map",
+    "static/css/main.bdc101ef.chunk.css.map": "/fragaming/static/css/main.bdc101ef.chunk.css.map",
     "static/js/2.ae9c9a35.chunk.js.LICENSE.txt": "/fragaming/static/js/2.ae9c9a35.chunk.js.LICENSE.txt",
     "static/media/FraFeaturedGame.scss": "/fragaming/static/media/Loosey Sans.18cfb9ca.otf",
     "static/media/HomePage.scss": "/fragaming/static/media/google-play-badge.db9b21a1.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.50704425.js",
     "static/js/2.ae9c9a35.chunk.js",
-    "static/css/main.98050aba.chunk.css",
+    "static/css/main.bdc101ef.chunk.css",
     "static/js/main.bf3c0c7b.chunk.js"
   ]
 }
