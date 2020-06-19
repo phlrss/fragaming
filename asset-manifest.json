@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/phlrss/fragaming/static/css/main.a9e3ea40.chunk.css",
-    "main.js": "/phlrss/fragaming/static/js/main.5236fe4c.chunk.js",
-    "main.js.map": "/phlrss/fragaming/static/js/main.5236fe4c.chunk.js.map",
-    "runtime-main.js": "/phlrss/fragaming/static/js/runtime-main.28f3a441.js",
-    "runtime-main.js.map": "/phlrss/fragaming/static/js/runtime-main.28f3a441.js.map",
-    "static/js/2.ae9c9a35.chunk.js": "/phlrss/fragaming/static/js/2.ae9c9a35.chunk.js",
-    "static/js/2.ae9c9a35.chunk.js.map": "/phlrss/fragaming/static/js/2.ae9c9a35.chunk.js.map",
-    "index.html": "/phlrss/fragaming/index.html",
-    "precache-manifest.990e294559efbaabc485b699be20ce16.js": "/phlrss/fragaming/precache-manifest.990e294559efbaabc485b699be20ce16.js",
-    "service-worker.js": "/phlrss/fragaming/service-worker.js",
-    "static/css/main.a9e3ea40.chunk.css.map": "/phlrss/fragaming/static/css/main.a9e3ea40.chunk.css.map",
-    "static/js/2.ae9c9a35.chunk.js.LICENSE.txt": "/phlrss/fragaming/static/js/2.ae9c9a35.chunk.js.LICENSE.txt",
-    "static/media/FraFeaturedGame.scss": "/phlrss/fragaming/static/media/Loosey Sans.18cfb9ca.otf",
-    "static/media/HomePage.scss": "/phlrss/fragaming/static/media/google-play-badge.db9b21a1.png",
-    "static/media/FraButton.scss": "/phlrss/fragaming/static/media/fra-gaming-logo.5ca1caf9.png",
-    "static/media/hammy-screenshot.jpeg": "/phlrss/fragaming/static/media/hammy-screenshot.fd43eb29.jpeg"
+    "main.css": "/fragaming/static/css/main.98050aba.chunk.css",
+    "main.js": "/fragaming/static/js/main.efabca2f.chunk.js",
+    "main.js.map": "/fragaming/static/js/main.efabca2f.chunk.js.map",
+    "runtime-main.js": "/fragaming/static/js/runtime-main.50704425.js",
+    "runtime-main.js.map": "/fragaming/static/js/runtime-main.50704425.js.map",
+    "static/js/2.ae9c9a35.chunk.js": "/fragaming/static/js/2.ae9c9a35.chunk.js",
+    "static/js/2.ae9c9a35.chunk.js.map": "/fragaming/static/js/2.ae9c9a35.chunk.js.map",
+    "index.html": "/fragaming/index.html",
+    "precache-manifest.110b74250b9f31ddaaf7bd70392b34e9.js": "/fragaming/precache-manifest.110b74250b9f31ddaaf7bd70392b34e9.js",
+    "service-worker.js": "/fragaming/service-worker.js",
+    "static/css/main.98050aba.chunk.css.map": "/fragaming/static/css/main.98050aba.chunk.css.map",
+    "static/js/2.ae9c9a35.chunk.js.LICENSE.txt": "/fragaming/static/js/2.ae9c9a35.chunk.js.LICENSE.txt",
+    "static/media/FraFeaturedGame.scss": "/fragaming/static/media/Loosey Sans.18cfb9ca.otf",
+    "static/media/HomePage.scss": "/fragaming/static/media/google-play-badge.db9b21a1.png",
+    "static/media/FraButton.scss": "/fragaming/static/media/fra-gaming-logo.5ca1caf9.png",
+    "static/media/hammy-screenshot.jpeg": "/fragaming/static/media/hammy-screenshot.fd43eb29.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28f3a441.js",
+    "static/js/runtime-main.50704425.js",
     "static/js/2.ae9c9a35.chunk.js",
-    "static/css/main.a9e3ea40.chunk.css",
-    "static/js/main.5236fe4c.chunk.js"
+    "static/css/main.98050aba.chunk.css",
+    "static/js/main.efabca2f.chunk.js"
   ]
 }
